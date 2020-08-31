@@ -1,0 +1,49 @@
+body, html {
+  padding: 0;
+  margin: 0;
+}
+
+.rest-header-box{
+  position: relative;
+  left: 550px;
+}
+
+.rest-photo{
+  height: 200px;
+  width: 200px;
+}
+
+.rest-generalDetails{
+  position: relative;
+  left: 30px;
+  top: 10px;
+}
+
+.rest-rating{
+  position: relative;
+  left: 20px;
+  top:9px;
+}
+
+.RestProfile-gmap{
+  position: relative;
+  left: 100px;
+}
+
+.RestaurantProfile-reviewsSort{
+  position: relative;
+  left: 200px;
+  top: 10px;
+}
+
+.RestaurantProfile-reviews{
+  position: relative;
+  left: 500px;
+  bottom: 780px;
+}
+
+.RestaurantProfile-loadMore{
+  position: relative;
+  left: 400px;
+  top: 10px;
+}

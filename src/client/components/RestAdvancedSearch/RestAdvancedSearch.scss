@@ -1,0 +1,61 @@
+body, html {
+  padding: 0;
+  margin: 0;
+}
+
+.restaurants{
+  display: flex;
+}
+
+.restAdvancedSearch{
+  width: 200px;
+}
+
+.restAdvancedSearch-searchBy{
+  margin: 10px;
+  position: relative;
+  top: 5px;
+}
+
+.restAdvancedSearch-averageRating{
+  margin: 10px;
+}
+
+.restAdvancedSearch-averageRating1-4{
+  position: relative;
+  top: 12px;
+  right: 15px;
+}
+
+.restAdvancedSearch-averageRatingText{
+  position: relative;
+  top: 12px;
+}
+
+.restAdvancedSearch-averageRating5{
+  position: relative;
+  top: 12px;
+  right: 15px;
+}
+
+
+.restAdvancedSearch-closerBetterScale{
+  margin: 10px;
+}
+
+.restAdvancedSearch-closerBetterSlider{
+  margin-bottom: 40px;
+  position: relative;
+  left: 5px;
+  width: 150px;
+  top: 40px;
+}
+
+
+.rest-results{
+  flex:1;
+  position: relative;
+  left: 10px;
+  bottom: 10px;
+  width: 500px;
+}

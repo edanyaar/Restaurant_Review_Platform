@@ -1,0 +1,31 @@
+body, html {
+  padding: 0;
+  margin: 0;
+}
+
+.restResults{
+  width: 300px;
+  position: relative;
+  margin: 10px;
+}
+
+.restResults-addreview{
+  position: relative;
+  top: 200px;
+  right: 300px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.restResults-alert{
+  position: relative;
+  top: 500px;
+  right: 25px;
+
+}
+
+.restResults-loadMore{
+  position: relative;
+  left: 700px;
+}

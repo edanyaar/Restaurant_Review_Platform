@@ -1,0 +1,52 @@
+body, html {
+  padding: 0;
+  margin: 0;
+}
+
+.ReviewsSort{
+  display: flex;
+}
+
+.ReviewsSort-body{
+  width: 200px;
+}
+
+.ReviewsSort-sortDate{
+  margin: 10px;
+  position: relative;
+  top: 5px;
+}
+
+.ReviewsSort-filterDate{
+  margin: 10px;
+  position: relative;
+  top: 5px;
+}
+
+.ReviewsSort-sortTopic{
+  margin: 10px;
+  position: relative;
+  top: 5px;
+}
+
+.ReviewsSort-filterTopic{
+  margin: 10px;
+}
+
+.ReviewsSort-averageRating1-4{
+  position: relative;
+  top: 12px;
+  right: 15px;
+}
+
+.ReviewsSort-averageRatingText{
+  position: relative;
+  top: 12px;
+}
+
+.ReviewsSort-averageRating5{
+  position: relative;
+  top: 12px;
+  right: 15px;
+}
+

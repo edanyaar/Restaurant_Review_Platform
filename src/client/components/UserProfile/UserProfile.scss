@@ -1,0 +1,53 @@
+body, html {
+  padding: 0;
+  margin: 0;
+}
+
+.UserProfile-details {
+  position: relative;
+  left: 520px;
+  width: 1000px;
+  margin: 10px;
+}
+
+.UserProfile-card {
+
+  UserProfile-cardMedia {
+    padding-top: 56.25%;
+  }
+  UserProfile-cardContent {
+    textAlign: left;
+    padding: 30px;
+  }
+  .UserProfile-avatar {
+      fontSize: 300px;
+      width: 200px;
+      height: 200px;
+  }
+  MuiTypography--heading {
+    fontWeight: bold;
+    fontSize: 200px;
+  }
+
+  MuiTypography--subheading {
+  lineHeight: 1.8;
+  }
+
+transition: 0.3s;
+  maxWidth: 300;
+  margin: auto;
+  boxShadow: 0 8px 40px -12px rgba(0, 0, 0, 0.3);
+
+}
+.UserProfile-table {
+  .UserProfile-title2 {
+    font-size:120%;
+    font-family: Arial ;
+    font-weight: bold;
+  }
+}
+
+
+
+
+

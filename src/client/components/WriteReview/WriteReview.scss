@@ -1,0 +1,81 @@
+body, html {
+  padding: 0;
+  margin: 0;
+}
+
+.writeReview-searchRestaurant{
+  position: relative;
+  left: 520px;
+  top: 30px;
+}
+
+.writeReview-ratings1{
+  position: relative;
+  left: 500px;
+  top: 50px;
+  display: flex;
+}
+
+.writeReview-bathroom{
+  flex: 0 0 15%;
+}
+
+.writeReview-staffKindness{
+  flex: 0 15%;
+}
+
+.writeReview-cleanliness{
+  flex: 1;
+}
+
+.writeReview-ratings2{
+  position: relative;
+  left: 500px;
+  top: 50px;
+  display: flex;
+}
+
+.writeReview-driveThroughQuality{
+  flex: 0 0 15%;
+}
+
+.writeReview-deliverySpeed{
+  flex: 0 15%;
+}
+
+.writeReview-foodQuality{
+  flex: 1;
+}
+
+.writeReview-title{
+  position: relative;
+  left: 520px;
+  top: 60px;
+}
+
+.writeReview-writtenReview{
+  position: relative;
+  left: 520px;
+  top: 100px;
+}
+
+.writeReview-imageUpload{
+  position: relative;
+  left: 520px;
+  top: 150px;
+  width: 750px;
+}
+
+.writeReview-dropZone{
+  color: grey;
+  margin-bottom: 50px;
+}
+
+.writeReview-submit{
+  position: relative;
+  left: 1000px;
+  bottom: 60px;
+}
+
+
+

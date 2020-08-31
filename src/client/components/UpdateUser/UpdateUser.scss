@@ -1,0 +1,55 @@
+body, html {
+  padding: 0;
+  margin: 0;
+}
+
+
+
+.updateUser-details {
+  position: relative;
+  left: 500px;
+  padding: 10px;
+  margin: 10px;
+
+}
+
+Popover{
+  display: grid;
+}
+
+.updateUser-fieldspassword{
+  margin: 10px;
+  .updateUser-password {
+    margin-right: 10px;
+  }
+  button{
+    margin-top: 10px;
+    margin-right: 10px;
+  }
+  button{
+    margin-right: 10px;
+  }
+}
+
+.updateUser-fields {
+  position: relative;
+  top: 10px;
+  padding-bottom: 10px;
+}
+
+.updateUser-image {
+  position: relative;
+  top: 30px;
+  max-width: 800px;
+
+}
+
+.updateUser-buttons {
+  display: inline-block;
+  button{
+    margin-right: 10px;
+  }
+  button{
+    margin-right: 10px;
+  }
+}

@@ -1,0 +1,77 @@
+body, html {
+  padding: 0;
+  margin: 0;
+}
+
+
+
+.login {
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+
+}
+#login-box {
+  margin: 50px auto;
+  height: 325px;
+  width:500px;
+  border-radius: 3px;
+  display: inline-block;
+  align-items: center;
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+  h1{
+    text-align: center;
+    font-family: Georgia, serif;
+    font-size: 30px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: bold;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+
+  }
+}
+
+.Snackbar{
+  display: block;
+  background: red;
+}
+
+.login-usernamePassword {
+
+}
+
+.login-fields {
+  display: block;
+  justify-self: center;
+  margin:30px 10px 30px 150px;
+  width: 100%;
+}
+
+#buttonsBundle{
+  margin-top: 35px;
+  margin-left: 150px;
+
+}
+.login-loginbutton {
+  display:inline-block;
+  margin-right:5px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+
+.login-buttons {
+  display:inline-block;
+  margin-right:5px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+
+
+}
+

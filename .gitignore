@@ -1,0 +1,15 @@
+node_modules/.bin/_mocha
+node_modules/.bin/_mocha.cmd
+node_modules/.bin/_mocha.ps1
+node_modules/.bin/acorn
+node_modules/.bin/acorn.cmd
+node_modules/.bin/acorn.ps1
+node_modules/.bin/ansi-html
+node_modules/.bin/ansi-html.cmd
+node_modules/.bin/ansi-html.ps1
+node_modules/.bin/atob
+node_modules/.bin/atob.cmd
+node_modules/.bin/atob.ps1
+node_modules/.bin/babylon
+node_modules/.bin/babylon.cmd
+node_modules/
